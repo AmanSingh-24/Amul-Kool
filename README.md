@@ -10,7 +10,7 @@ An immersive, premium scroll-driven product experience built with frame-based st
 
 The goal of this project was to transform a traditional product landing page into a highly interactive, high-end "juice brand" experience. By anchoring the user journey around a continuously flowing liquid animation and a beautifully synchronized floating bottle, the interface feels alive, dynamic, and incredibly engaging.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 *   **HTML5 / CSS3:** Core structure and fluid layouts.
 *   **Tailwind CSS:** Rapid, utility-first styling for glassmorphism, gradients, and responsive design.
